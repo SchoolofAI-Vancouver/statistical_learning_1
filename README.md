@@ -15,7 +15,7 @@ It is recommended that you use either [Google Colab](https://colab.research.goog
 ## Meetup Content
 
 [Statistical Learning Part 1](https://docs.google.com/presentation/d/1WqFxIoNZKBtEZS0imJrgFSrVgSLxVZMAowCkly58QzM/edit?usp=sharing)
-
+- [Google Colab: Introduction to Python](https://colab.research.google.com/drive/1YvwC6fj_Qj7W2TUn3qEaITcCLOH84_CN)
 ## Resources
 
 The meetup covers Chapter 1 and 2 from the book, *An Introduction to Statistical Learning*. The book can be downloaded [here](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf), but has been added to this repo, [here](https://github.com/SchoolofAI-Vancouver/statistical_learning_1/blob/master/docs/An%20Introduction%20to%20Statistical%20Learning%20-%20Gareth%20James.pdf), for convenience.
