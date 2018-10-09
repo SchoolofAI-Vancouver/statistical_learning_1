@@ -24,6 +24,23 @@ The meetup covers Chapter 1 and 2 from the book, *An Introduction to Statistical
 
 The book gives R application code snippets. However, we will be working in Python. The Python code snippets for the book can be found [here](https://github.com/JWarmenhoven/ISLR-python).
 
+## Code Challenge
+
+**Due Date:** Sunday, 21 October @ midnight (PST)
+
+**Challenge:** Explore a dataset of your choice and document your most interesting findings. Use the Python exploration functions discussed in the meetup (e.g. the summarizing and visualizing functions).
+
+*Check out the **Applied** section under **2.4 Exercises** in **An Introduction to Statistical Learning** for inspiration.*
+
+**Everyone is encouraged to participate!**
+
+The winning submission should ideally contain:
+
+* interesting, well-motivated, findings
+* documentation explaining your exploration
+
+To submit, post your submission's repository link on the `# coding_challenge` Slack channel (on the Vancouver School of AI workspace) before the due date.
+
 ## Content Authors
 
 The core content was created by the authors of *An Introduction to Statistical Learning*.
